@@ -1,5 +1,6 @@
 # Basic Calculator
 ![icon](icon.png)
+
 This is a basic calculator program written in Python.
 
 ## Usage
